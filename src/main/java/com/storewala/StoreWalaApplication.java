@@ -35,7 +35,7 @@ public class StoreWalaApplication implements CommandLineRunner {
 		user.setId(1);
 		user.setEmail("admin@storewala.com");
 		user.setEnable(true);
-		user.setName("Muhammad Haris");
+		user.setName("vijay");
 		user.setPhone("1234567890");
 		user.setRole("ROLE_ADMIN");
 		user.setPassword(passwordEncoder.encode("admin"));
